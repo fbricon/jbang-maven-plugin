@@ -10,7 +10,7 @@ import org.apache.maven.plugins.annotations.Parameter;
 /**
  * Goal which executes j'bang on a Java file.
  */
-@Mojo(name = "jbang", requiresProject = false)
+@Mojo(name = "jbang")
 public class JBangMojo extends AbstractMojo {
 	/**
 	 * Location of the j'bang source directory

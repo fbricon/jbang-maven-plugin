@@ -45,8 +45,12 @@ Then, in your project:
  
     mvn jbang:jbang -Djbang.source.script=/path/or/url/to/script
     
-    
+ ![](jbang-maven-plugin.png)
  
- 
- 
- 
+### Things needed:
+
+ - a license
+ - tests
+ - support j'bang args
+ - automatically download the latest version of j'bang
+ - certainly a shit ton of other things
