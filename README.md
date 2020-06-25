@@ -53,4 +53,5 @@ Then, in your project:
  - tests
  - support j'bang args
  - automatically download the latest version of j'bang
+ - trust remote URLs?
  - certainly a shit ton of other things
